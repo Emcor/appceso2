@@ -1,0 +1,6 @@
+.imagenescalable{
+	width:100%;
+	max-width:300px
+	 	}
+
+[data-role=footer]{bottom:0; position:absolute !important; top: auto !important; width:100%;}
